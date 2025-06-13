@@ -40,9 +40,6 @@
 - Circuit Breaker (Resilience4j / Hystrix)
 
 ---
-
-## Badges
-
-![Status](https://img.shields.io/badge/status-em_andamento-yellow)
+![Status](https://img.shields.io/badge/status-finalizado-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Contribuidores](https://img.shields.io/badge/contribuidores-01-orange)
